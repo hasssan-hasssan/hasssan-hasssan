@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>
-    Hi, I'm Abolfazl Hassanzadeh. A full stack developer with Django Rest
+    Hi, I'm Abolfazl Hassan Zade. A full stack developer with Django Rest
     Framework and React JS. I am very interested in the world of networking and
     I listen to podcasts while working and practice . My favorite podcasts are
     Channel B and Radio Geek.
