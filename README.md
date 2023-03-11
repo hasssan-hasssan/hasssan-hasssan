@@ -11,6 +11,6 @@
 </div>
 <br/><br/>
 <div align="center"  style="background-color: white;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" width="110px" min-width="100px" max-width="200px" />
-  <img src="https://s27.picofile.com/file/8460974234/2041344.png" alt="" width="210px" min-width="200px" max-width="300" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" width="110px" min-width="90px" max-width="200px" />
+  <img src="https://s27.picofile.com/file/8460974234/2041344.png" alt="" width="210px" min-width="190px" max-width="300" />
 </div>
