@@ -1,13 +1,13 @@
 <h1 align="center">In the name of best Developer in the world</h1>
-<div align='left'>
-    <h3>Hi, I'm Abolfazl Hassan Zade. A FullStack developer with Django Rest
-    Framework and React JS. I am very interested in the world of networking and
+<div align='center'>
+    Hi, I'm Abolfazl Hassan Zade. A <b>FullStack</b> developer with <b>Django Rest
+    Framework and React JS</b>. I am very interested in the world of networking and
   I listen to podcasts while working and practice . My favorite podcasts are
     <a href="https://channelbpodcast.com/">Channel B</a> and <a href="https://jadi.net/">Radio Geek</a>.
 
   You can see my tutorials in this link:
   [My page in HamRueysh](https://hamruyesh.com/teachers/abolfazl-hassanzade/)
-    </h3>
+    
 </div>
 <br/><br/>
 <div align="center"  style="background-color: white;">
