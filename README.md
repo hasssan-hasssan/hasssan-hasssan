@@ -1,15 +1,11 @@
 <h1 align="center">In the name of best Developer in the world</h1>
+<div align='center'>
+    Hi, I'm Abolfazl Hassan Zade. A <b>FullStack</b> developer with <b>Django Rest
+    Framework and React JS</b>. I am very interested in the world of networking and
+  I listen to podcasts while working and practice . My favorite podcasts are
+    <a href="https://channelbpodcast.com/">Channel B</a> and <a href="https://jadi.net/">Radio Geek</a>.
 
-
-<div align="center">
-  <p>
-    Hi, I'm Abolfazl Hassan Zade. A fullstack developer with Django Rest
-    Framework and React JS. I am very interested in the world of networking and
-    I listen to podcasts while working and practice . My favorite podcasts are
-    Channel B and Radio Geek.
-  </p>
-  You can see my tutorials in this below link:
-  
+  You can see my tutorials in this link:
   [My page in HamRueysh](https://hamruyesh.com/teachers/abolfazl-hassanzade/)
 </div>
 <br/><br/>
