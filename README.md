@@ -5,7 +5,7 @@
   I listen to podcasts while working and practice . My favorite podcasts are
     <a href="https://channelbpodcast.com/">Channel B</a> and <a href="https://jadi.net/">Radio Geek</a>.
 
-  You can see my tutorials in this link:
+  Also you can see my tutorials in this link:
   [My page in HamRueysh](https://hamruyesh.com/teachers/abolfazl-hassanzade/)
     
 </div>
