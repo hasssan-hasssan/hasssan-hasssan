@@ -1,4 +1,4 @@
-<h1 align="center">In the Name of the Programmer of the Universe</h1>
+<h1 align="center">In the Name Programmer of the Universe</h1>
 <div align='center'>
     Hi, I'm Abolfazl Hassan Zade. A <b>FullStack</b> developer with <b>Django Rest
     Framework and React JS</b>. I am very interested in the world of networking and
