@@ -12,7 +12,7 @@
 <br/><br/>
 <div align="center"  style="background-color: white;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" width="100px"  max-width="200px" />
-  <img src="https://s27.picofile.com/file/8460974234/2041344.png" alt="" width="200px" max-width="300" />
+  <img src="https://s33.picofile.com/file/8483808150/logo.png" alt="" width="200px" max-width="300" />
 </div>
 
 <br>
