@@ -12,10 +12,10 @@
 <br/><br/>
 <div align="center">
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasssan-hasssan&theme=default&exclude={})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasssan-hasssan&theme=default&exclude={})
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasssan-hasssan&theme=default&utcOffset=3.30)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasssan-hasssan&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasssan-hasssan&theme=github_dark&exclude={})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasssan-hasssan&theme=github_dark&exclude={})
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasssan-hasssan&theme=github_dark&utcOffset=3.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasssan-hasssan&theme=github_dark)
 </div>
 
 
